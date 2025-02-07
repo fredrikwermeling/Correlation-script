@@ -1,6 +1,6 @@
 # User parameters
-reference_list_path <- "C:/Users/frewer/Desktop/Correlation script/CRISPRGeneEffect_depmap24Q4.csv"
-gene_list_path <- "C:/Users/frewer/Desktop/Correlation script/DNA damage gene set GO 0000077.txt"
+reference_list_path <- "C:/path/to/Your_Reference_List.csv" 
+gene_list_path <- "C:/path/to/Your_Gene_List.txt"
 analysis_mode <- "design"  # "analysis" = correlations within the gene list, "design" = correlations with all genes
 correlation_cutoff <- 0.5
 
